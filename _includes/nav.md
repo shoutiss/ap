@@ -5,6 +5,11 @@
 
 ***
 
+* [C Block]({{ "/periods/C" | relative_url }})
+* [D Block]({{ "/periods/D" | relative_url }})
+
+***
+
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
