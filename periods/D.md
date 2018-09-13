@@ -4,6 +4,8 @@
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
 * [Binary and ASCII]({{"/units/unit0/binary_and_ascii" | relative_url }})
 * [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
+
+<!--
 * [Memory]({{"/units/unit0/memory" | relative_url }})
 * [Algorithms]({{"/units/unit0/algorithms" | relative_url }})
 
@@ -51,8 +53,6 @@
 * [Hexadecimal]({{"/units/unit4/hexadecimal" | relative_url }})
 * [File I/O]({{"/units/unit4/file_io" | relative_url }})
 * [Images]({{"/units/unit4/images" | relative_url }})
-
-<!--
 * [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
 
 # Unit A
