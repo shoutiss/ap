@@ -4,8 +4,6 @@
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
 * [Binary and ASCII]({{"/units/unit0/binary_and_ascii" | relative_url }})
 * [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
-
-<!--
 * [Memory]({{"/units/unit0/memory" | relative_url }})
 * [Algorithms]({{"/units/unit0/algorithms" | relative_url }})
 
@@ -18,6 +16,8 @@
 * [Variables]({{"/units/unit1/variables" | relative_url }})
 * [Data Types]({{"/units/unit1/data_types" | relative_url }})
 * [Operators]({{"/units/unit1/operators" | relative_url }})
+
+<!--
 * [Boolean Expressions and Conditionals]({{"/units/unit1/boolean_expressions_and_conditionals" | relative_url }})
 * [Loops]({{"/units/unit1/loops" | relative_url }})
 
