@@ -7,9 +7,9 @@
 <!--
 * [C Block]({{ "/periods/C" | relative_url }})
 * [D Block]({{ "/periods/D" | relative_url }})
-
-***
 -->
+***
+
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
